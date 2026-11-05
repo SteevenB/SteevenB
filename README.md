@@ -56,27 +56,6 @@ Hi! I'm **Steeven**, a developer passionate about programming, artificial intell
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SteevenB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteevenB&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=SteevenB&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🎯 Current Goals
 
 - [ ] Improve my Deep Learning skills.
@@ -87,12 +66,17 @@ Hi! I'm **Steeven**, a developer passionate about programming, artificial intell
 
 ---
 
-## 📫 Connect With Me
+
+## 📫 Contact Me
 
 <p align="center">
-  <a href="https://github.com/SteevenB">
-    <img src="https://img.shields.io/badge/GitHub-Ste evenB-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/steeven-betry-0990a2305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  Feel free to reach out for collaborations, projects or discussions about AI and Deep Learning!
 </p>
 
 ---
