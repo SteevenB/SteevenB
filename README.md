@@ -43,7 +43,7 @@ Hi! I'm **Steeven**, a developer passionate about programming, artificial intell
 ### Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ### Python Ecosystem
