@@ -1,7 +1,7 @@
 <!-- ================= PROFILE HEADER ================= -->
 
 <h1 align="center">
-  Hey, I'm SteevenB 👋
+  Hello, I'm Steeven 👋
 </h1>
 
 <h3 align="center">
