@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **SteevenB**, a developer passionate about programming, artificial intelligence and deep learning.
+Hi! I'm **Steeven**, a developer passionate about programming, artificial intelligence and deep learning.
 
 - 🧠 Interested in Artificial Intelligence and Machine Learning.
 - 🐍 Working mainly with Python.
